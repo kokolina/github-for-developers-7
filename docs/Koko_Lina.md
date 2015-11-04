@@ -5,3 +5,4 @@
 Some info:
 * food
 * hobby
+* favourite colour: green
